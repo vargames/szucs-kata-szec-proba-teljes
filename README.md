@@ -1,0 +1,1 @@
+# szucs-kata-szec-proba-teljes
