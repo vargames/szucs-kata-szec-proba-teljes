@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Digitális Bölcsészeti Központ"
+  },
+  "text": {
+    "more": "Széchényi Ferenc levélben tájékoztatta a korabeli tudós nemesség tagjait egy Nemzeti Könyvtár alapításáról. A felvilágosult főnemes ezzel a tettével kívánta megmenteni és továbbhagyományozni a haza szellemi örökségét s egyben bizonyítani azt is, hogy a magyarság állandó, szerves része az európai nemzetek szellemi közösségének. Leveléhez a katalógus saját költségén nyomtatott első köteteit is csatolta. A címzettek jegyzékét Széchényi instrukciói alapján Miller Jakab Ferdinánd, a könyvtár első őre és Tibolth Mihály, a gróf titkára és levéltárosa alapos körültekintéssel és szakértelemmel állította össze.\n\nSzéchényi Ferenc tudatosan gyűjtötte össze és őrizte meg a neves kortársaktól érkező válaszleveleket. Ez a mintegy hétszáz korabeli autográf írás ma is megtalálható az OSZK Kézirattárában. A levelezés további különlegessége, hogy a válaszadók esetenként kéziratokkal, könyvekkel, térképekkel, érmékkel fejezték ki támogatásukat, gyarapították Széchényi gyűjteményét.\nA válaszlevelek válogatásából az OSZK alapításának 210. évfordulójára nyomtatott kiadvány készült („Levélben értesítsen engem” c. album). A Deák Eszter és Zvara Edina szerkesztésében megjelent gazdagon illusztrált ünnepi kiadvány közel száz magyar nyelvű, illetve magyar fordításban közreadott, addig túlnyomórészt kiadatlan kortársi levelet tartalmaz olyan meghatározó személyektől, mint Batsányi János, Csokonai Vitéz Mihály, Tessedik Sámuel, Virág Benedek, Berzeviczy Gergely és Teleki Sámuel. Nem hiányozhatnak az összeállításból az európai hírű külföldi tudósok sem, mint a göttingeni professzor Christian Gottlob Heyne vagy August Ludwig Schlözer.\nAz OSZK Digitális Bölcsészeti Központja ezúttal digitális szövegkiadás formájában szeretné közzétenni e levelezés teljes szövegkorpuszát, másrészt a hozzá tartozó adatokból készít vizualizációt. \nAz albumban egy közel hétszáz tételes táblázat foglalja össze mindazon személyeket és intézményeket, akiket Széchényi Ferenc a katalógus köteteivel megajándékozott. Ez az adatkorpusz képezi a készülő vizualizáció alapját. A táblázat tartalmazza a címzett személyek rövid életrajzi adatait, hogy megkapta és válaszolt-e a levélre, a válaszlevél nyelvét és lelőhelyét. \n\nAz origó természetesen Széchényi Ferenc, aki egy személyben fogja össze a teljes értelmiségi közeget, őt veszik körül a címzettek, ahol további elágazások (vagy ugrópontok) is lehetségesek, néhány a címzettek által beküldött jelentős kézirat, címer, kiadvány stb. kiemelésével, amelyek ma is megtalálhatóak az OSZK gyűjteményében, sőt akár digitális formában is hozzáférhetőek. ",
+    "intro": "Az Országos Széchényi Könyvtár alapítása 220. évfordulójának alkalmából nagyszabású rendezvénysorozatot tervez. Az Esszencia c. kiállítás keretein belül készül el Széchényi Ferenc kapcsolati hálójának vizualizációja, melynek alapját levelezésének egyik legizgalmasabb részgyűjteménye képezi.",
+    "title": "Széchényi Ferenc kapcsolati hálója"
+  },
+  "legend": {
+    "edgeLabel": "Kapcsolat",
+    "colorLabel": "Címzett típusa",
+    "nodeLabel": "Címzett"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "nyelv",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
